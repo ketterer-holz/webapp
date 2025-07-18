@@ -25,6 +25,7 @@ jobs:
     
     - name: Create config.js with API key
       run: |
+        mkdir -p web
         echo "window.GOOGLE_MAPS_API_KEY = '${{ secrets.GOOGLE_MAPS_API_KEY }}';" > web/config.js
     
     - name: Get dependencies
