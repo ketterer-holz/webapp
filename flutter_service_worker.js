@@ -440,7 +440,7 @@ const RESOURCES = {"apple-touch-icon.png": "475027bde1038f82f4b98dbafc510952",
 "favicon.ico": "8eca2533d5fd564c5316b96de9ef24be",
 "favicon.png": "6f16c7cc1f27ae30ae39f8819bd14ddc",
 "flutter.js": "24bc71911b75b5f8135c949e27a2984e",
-"flutter_bootstrap.js": "e004906dc69cbfb77e34548e8349f77a",
+"flutter_bootstrap.js": "04056d30ddee7ac4ad3251f43478a9bf",
 "icon-192-maskable.png": "d4aa3e0b607f589ed5b9958257e917dd",
 "icon-192.png": "6eb09589caa218f1112d815742c2f028",
 "icon-512-maskable.png": "b666e3b519908a2020fdebc036f976d5",
@@ -451,10 +451,10 @@ const RESOURCES = {"apple-touch-icon.png": "475027bde1038f82f4b98dbafc510952",
 "icons/Icon-maskable-512.png": "27dd35d6adb0ecc714ed5e17d6f00100",
 "index.html": "2847c68d9f1ab0dd6c328c3a27d76f38",
 "/": "2847c68d9f1ab0dd6c328c3a27d76f38",
-"main.dart.js": "1146132568c586dc0877fde95171695b",
+"main.dart.js": "4456bf3794182a66f4d51008836876f2",
 "manifest.json": "64304eff95316ff62a530e35dd44ba49",
 "README.txt": "d3df3991a31f034bfa98afdfa3c622e1",
-"version.json": "7648f1f517d8f2c6f2d483adbdb49f90"};
+"version.json": "ac1a6044dc542c916a1104006d6367fd"};
 // The application shell files that are downloaded before a service worker can
 // start.
 const CORE = ["main.dart.js",
